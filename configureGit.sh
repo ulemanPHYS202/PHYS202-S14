@@ -2,7 +2,7 @@
 
 #script configures git on multiple computers. run when working on multiple computers
 
-gitconfig --global user.name "Matt Uleman"
-gitconfig --global user.email "deltoram@aol.com"
-gitconfig --global color.ui "auto"
-gitconfig --global core.editor "nano"
+git config --global user.name "Matt Uleman"
+git config --global user.email "deltoram@aol.com"
+git config --global color.ui "auto"
+git config --global core.editor "nano"
